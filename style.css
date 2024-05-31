@@ -1,0 +1,65 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: grey;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: sans-serif, bold;
+
+}
+
+h3 {
+    text-align: center;
+    font-family: sans-serif, bold;
+    padding: 3%;
+
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif, bold;
+    margin: 5%;
+    font-size: larger;
+
+} 
+
+#gambar1 {
+    display: block;
+    margin: auto;
+    width: 60%;
+    height: auto;
+    aspect-ratio: 16/9;
+    
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+
+}
+
+.button {
+    font-family: arial, sans-serif;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: aqua;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+.button:hover {
+    background-color: aquamarine;
+}
