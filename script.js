@@ -1,1 +1,1 @@
-alert('paki israel temen fadul')
+alert('paki israel temen fadul FF/DB')
